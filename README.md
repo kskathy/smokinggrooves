@@ -25,10 +25,5 @@ npm run build
 ## Misc
 
 
-## License
-[MIT](LICENSE)
-
-
-
 
 
